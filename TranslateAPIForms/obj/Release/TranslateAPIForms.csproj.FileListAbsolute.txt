@@ -1,0 +1,14 @@
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\bin\Release\TranslateAPIForms.exe.config
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\bin\Release\TranslateAPIForms.exe.manifest
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\bin\Release\TranslateAPIForms.application
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\bin\Release\TranslateAPIForms.exe
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\bin\Release\TranslateAPIForms.pdb
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Release\TranslateAPIForms.Form1.resources
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Release\TranslateAPIForms.Properties.Resources.resources
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Release\TranslateAPIForms.csproj.GenerateResource.Cache
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Release\TranslateAPIForms.csproj.CoreCompileInputs.cache
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Release\TranslateAPIForms.TrustInfo.xml
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Release\TranslateAPIForms.exe.manifest
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Release\TranslateAPIForms.application
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Release\TranslateAPIForms.exe
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Release\TranslateAPIForms.pdb

@@ -1,0 +1,47 @@
+d:\users\gil\documents\visual studio 2017\Projects\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.csprojResolveAssemblyReference.cache
+d:\users\gil\documents\visual studio 2017\Projects\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.Form1.resources
+d:\users\gil\documents\visual studio 2017\Projects\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.Properties.Resources.resources
+d:\users\gil\documents\visual studio 2017\Projects\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.csproj.GenerateResource.Cache
+d:\users\gil\documents\visual studio 2017\Projects\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.exe.config
+d:\users\gil\documents\visual studio 2017\Projects\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.exe.manifest
+d:\users\gil\documents\visual studio 2017\Projects\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.application
+d:\users\gil\documents\visual studio 2017\Projects\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.exe
+d:\users\gil\documents\visual studio 2017\Projects\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.pdb
+d:\users\gil\documents\visual studio 2017\Projects\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.TrustInfo.xml
+d:\users\gil\documents\visual studio 2017\Projects\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.exe.manifest
+d:\users\gil\documents\visual studio 2017\Projects\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.application
+d:\users\gil\documents\visual studio 2017\Projects\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.exe
+d:\users\gil\documents\visual studio 2017\Projects\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.pdb
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.exe.config
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.exe.manifest
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.application
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.exe
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.pdb
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.Form1.resources
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.Properties.Resources.resources
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.csproj.GenerateResource.Cache
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.csproj.CoreCompileInputs.cache
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.TrustInfo.xml
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.exe.manifest
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.application
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.exe
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.pdb
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.csprojResolveAssemblyReference.cache
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.exe.CodeAnalysisLog.xml
+C:\Users\Elvio\Desktop\TransProgs\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.exe.lastcodeanalysissucceeded
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.csprojResolveAssemblyReference.cache
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.Form1.resources
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.Properties.Resources.resources
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.csproj.GenerateResource.Cache
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.exe
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.pdb
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.exe.config
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.exe.manifest
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.application
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.exe
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.pdb
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.exe.CodeAnalysisLog.xml
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\bin\Debug\TranslateAPIForms.exe.lastcodeanalysissucceeded
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.TrustInfo.xml
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.exe.manifest
+C:\Users\Gonçalo Duque\Downloads\TranslateAPIForms\TranslateAPIForms\obj\Debug\TranslateAPIForms.application
